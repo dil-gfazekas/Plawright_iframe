@@ -19,5 +19,5 @@ After that you have to start the playwright test script.
 Go into /Plawright_iframe\iframe-Test
 run 'npx playwright test'
 
-The test script should open the webpage under http://127.0.0.1:8085 where after 5sec, an ifame will be 'loaded'.
+The test script should open the webpage under http://10.36.16.46:8090 where after 5sec, an ifame will be 'loaded'.
 The test script supposed to wait for the 'button' element in the iframe.
